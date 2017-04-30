@@ -3,7 +3,7 @@ A demo application of the buzzer and capacitive buttons on the RainbowHAT attach
 
 This is a non-production code example. The application is configured to handle touch input from the 3 buttons (A, B and C) and ouputs an alternate note each second through the buzzer.
 
-In the example: button A starts and stops the countdown, button B adds a second to the countdown and button C sets the countdown time to the default (10 seconds).
+In the example: button A starts and stops the countdown, button B adds a second to the countdown and button C sets the countdown time to the default (24 seconds).
 
 ## Hardware
 For this example I used the following:
