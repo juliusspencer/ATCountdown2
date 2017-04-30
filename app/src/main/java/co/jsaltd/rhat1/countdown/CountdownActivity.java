@@ -17,7 +17,7 @@ import java.text.DecimalFormat;
 public class CountdownActivity extends Activity {
 	private static final String TAG = CountdownActivity.class.getSimpleName();
 
-	private static final int DEFAULT_COUNTDOWN = 10000; // 10 seconds
+	private static final int DEFAULT_COUNTDOWN = 24000; // 24 seconds
 	private static final double C5_SHARP = 554.36;
 	private static final double B4 = 493.88;
 
