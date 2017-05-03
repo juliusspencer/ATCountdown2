@@ -11,6 +11,8 @@ For this example I used the following:
 
 ![hardware](https://github.com/juliusspencer/ATCountdown2/blob/master/doc_resources/atcountdown.jpg)
 
+[Video Demo](https://www.youtube.com/watch?v=es7VLtsnFI4)
+
 ## Configuration
 The hardware is accessed through the RainbowHAT driver:
 
