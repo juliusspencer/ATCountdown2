@@ -16,6 +16,6 @@ The hardware is accessed through the RainbowHAT driver:
 
 	compile 'com.google.android.things.contrib:driver-rainbowhat:0.2'
 
-and the corresponding code to access a capacitive AndroidThings [Button](com.google.android.things.contrib.driver.button.Button):
+and the corresponding code to access a capacitive AndroidThings [Button](https://github.com/androidthings/contrib-drivers/blob/master/button/src/main/java/com/google/android/things/contrib/driver/button/Button.java):
 
 	mButtonA = RainbowHat.openButton(RainbowHat.BUTTON_A);
